@@ -1,0 +1,1 @@
+All the answers to the questions are written as comments in the respective codes and the plots can be found in the file "Plots"
