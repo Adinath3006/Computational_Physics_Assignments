@@ -1,0 +1,4 @@
+Exercise 12
+
+The solution to the given system of equations is [3.         1.66666667 3.33333333 2.        ], hence it is consistent with the solution
+obtained in problem 10

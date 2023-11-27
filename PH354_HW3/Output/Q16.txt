@@ -1,0 +1,52 @@
+Exercise 16
+
+Part C
+
+Calculating the first ten enrgy levels using 10x10 matrix method
+The 0 state energy is : 5.836376902706757 eV
+The 1 state energy is : 11.18109290629752 eV
+The 2 state energy is : 18.662891578380517 eV
+The 3 state energy is : 29.14419775590048 eV
+The 4 state energy is : 42.655074845333516 eV
+The 5 state energy is : 59.185257819333145 eV
+The 6 state energy is : 78.72936018850429 eV
+The 7 state energy is : 101.28548383437379 eV
+The 8 state energy is : 126.8513857454442 eV
+The 9 state energy is : 155.55532885350138 eV
+
+Part D 
+
+Calculating the first ten enrgy levels using 100x100 matrix method
+The 0 state energy is : 5.8363765020361384 eV
+The 1 state energy is : 11.181091583031925 eV
+The 2 state energy is : 18.66288970736844 eV
+The 3 state energy is : 29.144188956249522 eV
+The 4 state energy is : 42.65506572522523 eV
+The 5 state energy is : 59.18520523633897 eV
+The 6 state energy is : 78.72930836144975 eV
+The 7 state energy is : 101.28485290329287 eV
+The 8 state energy is : 126.8505534197182 eV
+The 9 state energy is : 155.42570638517662 eV
+
+The relative difference between the two methods are:
+For the 0 state energy the difference between 10x10 and 100x100 method is : 4.0067061846116303e-07 eV
+For the 1 state energy the difference between 10x10 and 100x100 method is : 1.3232655948769434e-06 eV
+For the 2 state energy the difference between 10x10 and 100x100 method is : 1.8710120777143402e-06 eV
+For the 3 state energy the difference between 10x10 and 100x100 method is : 8.79965095634816e-06 eV
+For the 4 state energy the difference between 10x10 and 100x100 method is : 9.120108288129813e-06 eV
+For the 5 state energy the difference between 10x10 and 100x100 method is : 5.258299417221224e-05 eV
+For the 6 state energy the difference between 10x10 and 100x100 method is : 5.182705453421477e-05 eV
+For the 7 state energy the difference between 10x10 and 100x100 method is : 0.0006309310809200497 eV
+For the 8 state energy the difference between 10x10 and 100x100 method is : 0.0008323257260087757 eV
+For the 9 state energy the difference between 10x10 and 100x100 method is : 0.12962246832475444 eV
+
+Hence we can observe that 10x10 method agrees very closely with 100x100 method with only a considerable discrepancy at higher energy
+levels.
+
+Part E
+
+The value of integral psi**2 for the 0 state is 0.9999999984333351
+The value of integral psi**2 for the 1 state is 0.999999999846115
+The value of integral psi**2 for the 2 state is 0.999999976569353.
+
+Hence the wavefunction is normalized.

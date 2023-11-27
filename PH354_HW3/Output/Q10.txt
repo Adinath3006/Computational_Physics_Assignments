@@ -1,0 +1,9 @@
+Exercise 10
+
+Part B
+
+Thus the potential of each of the nodes are:
+V0 = 3.0 Volts
+V1 = 1.6666666666666665 Volts
+V2 = 3.3333333333333335 Volts
+V3 = 2.0 Volts

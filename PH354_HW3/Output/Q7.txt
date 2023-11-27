@@ -1,0 +1,15 @@
+Exercise 7
+
+Part A
+
+The rough values of the roots are 0.033, 0.17, 0.379, 0.619, 0.830, 0.965
+
+Part B
+
+The value of the six roots computed using Newton's method are: 
+0.033765242898423975
+0.16939530676505093
+0.38069040695770584
+0.6193095930415944
+0.8306046932349631
+0.9662347571015738

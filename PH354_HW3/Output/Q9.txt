@@ -1,0 +1,5 @@
+Exercise 9
+
+The values of the voltages are, V1 = 3.446971806506484 Volts and V2 = 2.829542290240274 Volts
+
+The potential difference across the diode is V1-V2 = 0.6174295162662098 Volts. Thus this is close to the approximation, 0.6 Volts, used by engineers.

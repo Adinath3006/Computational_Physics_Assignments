@@ -1,0 +1,14 @@
+Exercise 14
+
+Part A
+
+V1 = 3.725490196078432 volts
+V2 = 3.4313725490196085 volts
+V3 = 2.745098039215687 volts
+V4 = 2.2549019607843146 volts
+V5 = 1.5686274509803926 volts
+V6 = 1.2745098039215692 volts
+
+Part B
+
+Refer the file potential.txt

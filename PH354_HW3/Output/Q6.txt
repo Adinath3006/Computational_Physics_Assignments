@@ -1,0 +1,7 @@
+Exercise 6
+
+Energy of 0 state is: 0.3179326435890676 eV
+Energy of 1 state is: 5.050013926619766 eV
+Energy of 2 state is: 7.849075165687786 eV
+Energy of 3 state is: 19.132874959416142 eV
+The number of bound states for the given system is  4

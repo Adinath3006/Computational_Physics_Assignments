@@ -1,0 +1,15 @@
+Exercise 11
+
+Part A
+
+[3.         1.66666667 3.33333333 2.        ]. Which is the same result obtained in previous problem using gaussian elimination without 
+pivoting:
+V0 = 3.0 Volts
+V1 = 1.6666666666666665 Volts
+V2 = 3.3333333333333335 Volts
+V3 = 2.0 Volts
+
+Part B
+
+[ 1.61904762 -0.42857143 -1.23809524  1.38095238]
+Whereas without pivoting we get the out put "None".

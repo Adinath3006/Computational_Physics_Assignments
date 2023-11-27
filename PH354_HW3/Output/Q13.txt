@@ -1,0 +1,5 @@
+Exercise 13
+
+Amplitude of V1 = 1.7014390658777336 Volts and the phase is = -5.469094970111936 degrees
+Amplitude of V1 = 1.4806053465364062 Volts and the phase is = 11.583418604687067 degrees
+Amplitude of V1 = 1.8607693200562134 Volts and the phase is = -4.164672651865924 degrees

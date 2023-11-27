@@ -1,0 +1,13 @@
+Exercise 8
+
+Part A
+
+We plot the graph to get an idea of where the root of the equation lies and choose two values which seem to be reasonably close to the
+root and they bracket the root in order to reduce the computation time required to compute root, eventhough it can be done for any two 
+arbitrary points.
+
+The root of the above equation lies between 3.822e+8 and 3.825e+8
+
+Using the Secant method:
+The approximate solution obtained in 9 iteration is 326050065.3643446
+The distance of the Lagrange point from the center of the Earth is 3.261e+08 m

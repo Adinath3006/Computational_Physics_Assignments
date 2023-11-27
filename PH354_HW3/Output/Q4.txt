@@ -1,0 +1,10 @@
+Exercise 4
+
+Roots computed using fixed point iteration are x = 0.636383990038212 and y = 1.999928171652484
+Roots computed analytically are x = 2 and  y = 0.4
+Thus we can see that even after 100 iterations the roots don't converge to the analytic value hence this method is not very efficient.
+
+Thus the solution otained by rearranging the equations:
+Roots computed using fixed point iteration are x = 2.0 and y = 0.4
+Roots computed analytically are x = 2 and  y = 0.4
+This completely agrees with the analytic solution

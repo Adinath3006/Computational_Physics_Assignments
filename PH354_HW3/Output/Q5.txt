@@ -1,0 +1,11 @@
+Exercise 5
+
+Part A 
+
+The wavelength which emits maximum radiation is 0.00289788818359375 m
+The value of Wein's constant obtained is 0.00289788818359375 K-m
+
+Part B
+
+The temperature of the surface of sun estimated using this method is 5772.685624688745 K
+The literature value of sun's temperature is: T_Sun = 5778 K
