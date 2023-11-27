@@ -1,0 +1,12 @@
+Exercise 2
+
+Part B 
+
+From the plots we can see that the population of rabits and foxes show periodic behaviour.
+
+The maximum population of fox is always lower than that of the rabits, this is atributed to the fact that we have values of alpha and 
+delta in so that foxes die twice as quickly as rabits reproduce, thus even though rabits die as quickly as the fox reproduce, the 
+reproduction factor of the rabits outweighs all of them and hence leaving them with a higher maximum population. Additionally when the
+rabits reaches maxima then foxes have more food thus the fox population starts growing and rabit population starts dropping, similarly
+when the foxes have maximum population they don't have enough food as the population of rabits are lower at this instant, hence the 
+population of foxes starts dropping whereas rabbits start growing thus the maxima of both population will never be in phase.

@@ -1,0 +1,36 @@
+Exercise 11
+
+Part A
+
+The approximate solution obtained in 21 iteration is 2.2113468372787014e-17
+The approximate solution obtained in 4 iteration is 6.634040517639403e-17
+The approximate solution obtained in 6 iteration is 1.1056734215419297e-16
+
+Energies of the corresponding states are:
+The ground state energy is 138.02141351655123 eV
+The first excited state energy is 414.0642409118671 eV
+The second excited state energy is 690.1070693944035 eV
+
+The results are in accordance with the theoretical values of the corresponding energy levels. This is verified from the fact that the 
+difference in energy levels between:
+
+First excited energy level - Ground state energy level = 276.042827395316 eV
+Second excited energy level - First excited energy level = 276.042828482536 eV
+
+We can see that this difference is linear and has high degree of precision.
+
+Part B 
+
+The approximate solution obtained in 10 iteration is 3.289297935557324e-17
+The approximate solution obtained in 8 iteration is 1.1786781930878334e-16
+The approximate solution obtained in 10 iteration is 2.312796032263229e-16
+
+Anharmonic Oscillator
+The ground state energy is 205.30182913386093 eV
+The first excited state energy is 735.6730638026728 eV
+The second excited state energy is 1443.5337422747791 eV
+
+Part C 
+
+We have used the method of integrating upto -10*a to 0 but not over that as we might get underflow of values and leading to breakdown 
+of code, so we compute the integral in above range and complete the wavefunction according to it nature, i.e., even or odd

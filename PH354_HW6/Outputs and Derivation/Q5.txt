@@ -1,0 +1,7 @@
+Exercise 5
+
+Part C 
+
+We can see that from the plot of different masses the heavier mass travels the furthest and lowest at a given time instant when 
+compared to other masses. This can be atributed to the fact that the drag force is inversely proportional to mass, thus the lighter
+mass 'feels' greater drag force when compared to other masses.

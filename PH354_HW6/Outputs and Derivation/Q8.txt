@@ -1,0 +1,19 @@
+Exercise 8
+
+Part B 
+
+h = 0.01 --- t = 2s
+h = 0.001 --- t = 7s
+h = 0.0005 --- t = 17s
+
+We can see that the accuracy of the results got better progressively and the time of computation increased expontentially, for h = 0.01
+we got a breakdown of code, and h = 0.001 we have an orbit but not a closed loop orbit, h = 0.0005 we get an accurrate result but with
+a large computation time
+
+Part C 
+
+t = 2 s
+
+The adaptive rk4 method was much quicker and gave out accurate results almost instantaneously, the scatter plots shows the variation 
+of step size for different region. So even though very low step size in fixed step rk4 might give better results, adaptive rk4 will give
+reasonably accurate results in a very short time.

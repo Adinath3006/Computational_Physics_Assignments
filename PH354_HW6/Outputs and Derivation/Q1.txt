@@ -1,0 +1,8 @@
+Exercise 1
+
+Part B 
+
+In the presented plot, it is observed that when RC = 1, the output waveform is considerably lower in magnitude than V_in, whereas for 
+lower RC values (i.e., RC = 0.01), the waveform closely resembles V_in. This plot serves as evidence that by adjusting the product of 
+resistance and capacitance in the circuit, we can regulate the strictness of our low-pass filter. This is in accordance with the concept
+that the primary purpose of a low-pass filter is to permit lower frequencies to pass through while obstructing higher frequencies. 
