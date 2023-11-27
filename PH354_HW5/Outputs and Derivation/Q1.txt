@@ -1,0 +1,11 @@
+Exercise 1
+
+Part A
+
+The output obtained from a dice roll is: 6
+
+Part B
+
+The fraction of times that we obtain a double six is 0.02783.
+
+We can see that this fraction is very close to the theoretical value of the probability of the given event, 1/36 approximation 0.027777

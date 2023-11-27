@@ -1,0 +1,9 @@
+Exercise 8
+
+Part A
+
+Minimum found at x = -0.0031
+
+Part B
+
+Minimum found at x = 15.9764

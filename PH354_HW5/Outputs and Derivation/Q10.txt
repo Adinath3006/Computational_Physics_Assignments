@@ -1,0 +1,4 @@
+Exercise 10
+
+The random number theta with distribution p(θ): 1.0434537436147857
+The random number theta with distribution p(ϕ): 0.9775833797292951

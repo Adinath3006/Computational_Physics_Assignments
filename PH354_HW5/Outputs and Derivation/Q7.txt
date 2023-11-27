@@ -1,0 +1,23 @@
+Exercise 7
+
+T = 1
+The value of the total magnetization at T = 1 in run 1 is -400
+The value of the total magnetization at T = 1 in run 2 is 400
+The value of the total magnetization at T = 1 in run 3 is -400
+
+T = 2
+The value of the total magnetization at T = 2 in run 1 is -356
+The value of the total magnetization at T = 2 in run 2 is -356
+The value of the total magnetization at T = 2 in run 3 is 388
+
+T = 3
+The value of the total magnetization at T = 3 in run 1 is -96
+The value of the total magnetization at T = 3 in run 2 is -94
+The value of the total magnetization at T = 3 in run 3 is -36
+
+We can see that the for T = 1 case the system has attained a perfect alignment of all magnetic domains. And the value of the magnetization
+is sometimes positive and sometimes negative which is due to the fact that the initial state of the lattice influences the final results,
+i.e., if there were more number of negative domains then the magnetization is likely to attain a negative value and vice versa. Thus 
+this result is equally likely. Going forward to T = 2, we can see that the system is not completely aligned, which is accounted by the
+decrease in the value of 1/T thus increasing the probability of the system being in higher energy state. This is even more apparent
+in the T = 3 case where even after 1 million steps the system still is in disorder of domains.

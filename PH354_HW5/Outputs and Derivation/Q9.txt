@@ -1,0 +1,10 @@
+Exercise 9
+
+The number of dimers in the first simulation (without cooling) is: 938
+The number of dimers in the second simulation (with slow cooling) is: 1067
+The number of dimers in the third simulation (with fast cooling) is: 1038
+
+We can clearly see that cooling rate affects the occupancy of dimers, slower the rate larger the number of dimers occupied in the lattice
+when compared to faster cooling rates. Also we can see that cooling increases the number of dimers in comparison to non cooling method.
+This is all attributed to the fact the cooling makes the system less likely to remove the dimer hence increasing the overall occupancy
+of the dimer in the lattice.

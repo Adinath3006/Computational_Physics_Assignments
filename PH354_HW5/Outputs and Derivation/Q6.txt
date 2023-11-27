@@ -1,0 +1,12 @@
+Exercise 6
+
+Part A 
+
+Refer the Outputs directory for the derivation, 'Q6_deriv.pdf' 
+
+Part B
+
+Using the formula I = 1/N * Σf(x)/w(x) * ∫w(x)dx, we also know that the integral ∫w(x)dx = 2
+
+The value of the integral computed using importance sampling method is 0.83901. Which is very close to the actual value of the integral
+0.84

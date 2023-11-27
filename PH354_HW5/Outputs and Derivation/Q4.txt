@@ -1,0 +1,18 @@
+Exercise 4
+
+Part A
+
+We know that using the hit or miss method we can evaluate the integral by I = kA/N, here our region of interest is x ∈ [0,2] and
+y ∈ [0,1], hence the area A is 2. The expected error on the integral is given by sqrt((I*(A-I))/N).
+
+The value of the integral evaluated using the hit-or-miss method is 1.4544 with an error of 0.89079 %
+
+Part B 
+
+Using the mean value method the integral is evaluated through the formula I = ((b-a)/N)*Σf(xi) for N points, where again the expected
+error in the integral is given by ((b-a)/N)*(sqrt(N*var_f))
+
+The value of the integral evaluated using the mean value method is 1.45131 with an error of 0.52757 %
+
+Hence we can see that the integral evaluated using the mean value method is more accurate than hit or miss method which is apparent from 
+the error in the integral as 0.52757 % < 0.89079 %. 

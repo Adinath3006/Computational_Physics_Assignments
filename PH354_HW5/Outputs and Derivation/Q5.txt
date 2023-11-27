@@ -1,0 +1,6 @@
+Exercise 5
+
+The 10 dimensional hypersphere will be given as x1^2 + x2^2 + ... + x10^2 = 1,  The integral for a general N dimensions is 
+given by I = V/N*Σf(x1i,x2i,....,x10i).
+
+The volume of a 10-dimensional hypersphere of unit radius is 2.54157
