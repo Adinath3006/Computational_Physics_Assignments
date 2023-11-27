@@ -1,0 +1,13 @@
+The value of the integral for 2 slice is 0.38431604889308213
+The value of the integral for 4 slice is 0.5746331650289502 with error 0.012687807742391206
+The value of the integral for 8 slice is 0.36656898106322056 with error -0.013870945597715312
+The value of the integral for 16 slice is 0.4391386762335799 with error 0.004837979678023955
+The value of the integral for 32 slice is 0.4545184312850443 with error 0.0010253170034309625
+The value of the integral for 64 slice is 0.45574568635801105 with error 8.181700486444842e-05
+The value of the integral for 128 slice is 0.45582702875861086 with error 5.422826706654357e-06
+The value of the integral for 256 slice is 0.45583218714672064 with error 3.4389254065144335e-07
+
+Thus the target accuracy is reached at 128 with error 5.422826706654357e-06
+
+Thus we can see that the target accuracy is reached faster than trapezoidal method with N = 128 but it is still larger than Romberg integration
+which has N = 64.

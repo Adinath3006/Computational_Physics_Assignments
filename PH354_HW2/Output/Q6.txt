@@ -1,0 +1,10 @@
+The value of the integral computed using the Simpson's method with 20 slices is: 4.400026666666667
+The error computed using this method is: 2.666666666666373e-05
+Direct computation error is 2.6666666666841365e-05
+
+The method suggested in this question uses tatylor expansion, where we only consider terms till power h^4 (starts with this) and omitting 
+the higher order terms, whereas in the direct computation error we include all the terms in the expansion as we directly subtract the 
+actual value from  the computed value. Hence the two do not agree perfectly as we have omitted higher order terms in this method.Thus 
+this error used in this problem is called truncation error.
+
+Thus the target accuracy is reached at 2048 with error 1.8960230755057002e-06

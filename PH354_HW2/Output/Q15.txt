@@ -1,0 +1,9 @@
+Part E
+
+The user defined gamma function has passed the test for gamma(3/2): 0.8862269613087213
+
+Part F 
+
+Gamma(3): 2.0000000000000013
+Gamma(6): 119.99999999999997
+Gamma(10): 362879.99999999977

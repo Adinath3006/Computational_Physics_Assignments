@@ -1,0 +1,13 @@
+Part B
+
+We have used the gaussian quadrature method to evaluate the integral and the number of sample points used for doing so is N = 100, 
+as it has high accuracy and converges to actual value very quickly, thus we can see the error to be very small, i.e., 4.432010314303625e-13
+
+Part C
+
+The value of the integral obtain using the gaussian quadrature method is: 6.493939402267271
+The actual value calculated using Mathematica is: 6.493939402266828
+Thus the error is: 4.432010314303625e-13
+The value of the Stefan Boltzmann constant computed using the method given is: 5.670374419184816e-08
+The literature value of the Stefan Boltzmann constant is: 5.670374419e-08
+The error percentage in the computed value from literature value is: 3.25932571624752e-09
