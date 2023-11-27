@@ -1,0 +1,24 @@
+Exercise 2
+
+1 day (86400 sec) : The altitude of the satellite is 35862994.1977 meters 
+90 minutes (5400 sec) : The altitude of the satellite is 274455.4688 meters
+45 minutes (2700 sec) : This time period is not physically possible!
+    
+Thus the trend that we observe here is time period increases with height and there exists a lower bound on T_min such that values 
+of T < T_min are not physically realisable as it implies that h is negative which is against our initial assumption. Thus 45 minutes 
+is one such example of T < T_min 
+
+-----------------------------------------------------------------
+
+The sidereal day is the time required for the Earth to rotate once relative to the background of the stars (which remains fixed) —i.e., 
+the time between two observed passages of a star over the same meridian of longitude. This is 23.94 hours long. However a solar day 
+is when the Earth completes one full rotation with respect to Sun, but it is longer than sidereal day as the Earth also revolves 
+around the Sun so we have to consider the extra rotation for the Earth to reach the initial position. This is 24 hours long. Hence 
+a sidereal day is the true time period of rotation of the Earth
+    
+1 sidereal day (86184 sec) : The altitude of the satellite is 35792563.0073 meters
+1 solar day (86400 sec) :  The altitude of the satellite is 35862994.1977 meters 
+    
+Thus there is a difference of 70,431.1904 meters 
+    
+Hence a geosyncronous satellite is placed at a height of 35792563.0073 meters

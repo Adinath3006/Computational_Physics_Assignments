@@ -1,0 +1,20 @@
+Exercise 16
+
+Part A
+
+Fixed Points:
+In the Feigenbaum plot the points at which for a given value of r there is a single value of x are called fixed points, the range of 
+values of r which produces fixed point is approximately r = 1 to r = 3.
+
+Limit cycles:
+In the Feigenbaum plot the points at which for a given value of r the value of x oscillates between two values for r in the range 3 to 3.5
+(approximately), similarly for values of r slightly above 3.5, x oscillates between 4 points, and again for greater values of r x 
+oscillates between 8,16,32,... points. 
+
+Chaos:
+After a certain threshold of r, x now takes seemingly infinite values at each point, but we can always algorithmically obtain any point in 
+the Feigenbaum plot using the logistic equation. Thus we call it deterministic chaos.
+
+Part B 
+
+The value at which the system moves from orderly behavior (fixed points or limit cycles) to chaotic behavior is(approximately) r = 3.57

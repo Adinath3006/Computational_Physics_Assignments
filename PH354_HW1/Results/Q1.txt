@@ -1,0 +1,4 @@
+Exercise 1
+
+Enter the height of the tower (in m) : 100
+The time that the ball takes to reach the ground is (in sec) : 4.516 

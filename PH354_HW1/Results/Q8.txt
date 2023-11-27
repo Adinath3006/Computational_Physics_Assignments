@@ -1,0 +1,6 @@
+Exercise 8
+
+Computed value:
+The value of Madelung constant for NaCl is:  -1.7418198158396654
+
+Literature value of Madelung constant for NaCl: ±1.747565

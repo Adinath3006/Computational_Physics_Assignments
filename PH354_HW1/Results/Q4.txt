@@ -1,0 +1,6 @@
+Exercise 4
+
+Enter the value of distance in light years:10
+Enter the value of speed as a fraction of the speed of light c:0.99
+Time observed by an observer at rest on Earth is 10.1010 years
+Time observed by an observer on ship is 1.4249 years

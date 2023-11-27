@@ -1,0 +1,17 @@
+Exercise 6
+
+Earth:
+Enter the perihelion distance (in m): 1.471e+11
+Enter the perihelion velocity at perihelion (in m/s): 3.0287e+4
+The Aphelion distance: 152111350728.5926 m
+The Aphelion velocity: 29289.1864 m/s
+The Orbital period: 1.0001 year
+The Eccentricity: 0.0167
+
+Halley's Comet:
+Enter the perihelion distance (in m): 8.783e+10
+Enter the perihelion velocity at perihelion (in m/s): 5.4529e+4
+The Aphelion distance: 5371566481143.3535 m
+The Aphelion velocity: 891.5988 m/s
+The Orbital period: 77.9457 year
+The Eccentricity: 0.9678
